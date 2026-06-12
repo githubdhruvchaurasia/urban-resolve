@@ -178,7 +178,7 @@ GET  /api/v1/complaints
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/urban-resolve.git
+git clone https://github.com/DhruvChaurasia/urban-resolve.git
 cd urban-resolve
 ```
 
